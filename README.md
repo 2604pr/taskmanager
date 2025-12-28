@@ -105,3 +105,20 @@ Theme preference stored in localStorage
 Mobile-first approach
 
 Scales cleanly across mobile, tablet, and desktop screens
+
+## Live Link
+https://69516bb2916017762ebe3349--keen-selkie-a0ed1f.netlify.app/
+
+## Demo Screenshots:
+
+<img width="1426" height="471" alt="image" src="https://github.com/user-attachments/assets/4199bb0d-1ced-4c15-9004-001c55c823a3" />
+
+<img width="1477" height="846" alt="image" src="https://github.com/user-attachments/assets/a8aa021b-e216-4716-8843-53a9caa9d5c7" />
+
+<img width="1420" height="742" alt="image" src="https://github.com/user-attachments/assets/77f4e2e3-280b-4057-937f-bddec97348cc" />
+
+<img width="1413" height="669" alt="image" src="https://github.com/user-attachments/assets/56931526-58c4-44c3-ab57-ad007cf54acc" />
+
+
+
+
